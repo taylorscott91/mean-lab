@@ -33,7 +33,7 @@ You will be working groups of 3 for this lab. Groups will be determined by count
 
 ## Lab Submission
 
-Please submit an issue by Thursday, April 14th at 5PM with...
+Please submit an issue to this repo by Thursday, April 14th at 5PM with...
 * A link to your lab repo.
 * A link to your deployed application.
 * Any questions you would like answered by the instructor grading the lab.
