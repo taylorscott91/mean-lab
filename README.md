@@ -19,15 +19,15 @@ Your app must be deployed to Heroku.
 
 Add a second model to your application, which is nested under the first.
 
-### Bonus I
+### Bonus II
 
 Add Angular to your application stack. Express should only handle your root view as well as your API routes. Angular should take care of the rest via `ui.router`.
 
-### Bonus II
+### Bonus III
 
 Allow the user to log-in using Twitter.
 
-### Bonus III
+### Bonus IV
 
 Allow the user to log-in using a third-party service other than Twitter (e.g., Facebook, Spotify).
 
