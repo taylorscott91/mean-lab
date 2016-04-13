@@ -31,6 +31,18 @@ Allow the user to log-in using a third-party service other than Twitter (e.g., F
 
 You will be working groups of 3 for this lab. Groups will be determined by counting off students during the lab intro. If you are in Classroom 4, count off from 1-6. If in Classroom 6, 1-8.
 
+## Keep In Mind
+
+KISS (Keep It Simple, Silly), and don't re-invent the wheel!
+
+You may have noticed by now that many of the apps we make in this class are very similar. Some have Artists and Songs, others have Posts and Comments, but they're more-or-less the same concept.
+
+This isn't a WDI thing: it's a real-life thing! A tremendous number of apps follow the same structure.
+
+If you keep this in mind it greatly simplifies the process of making something. You can take any of the walkthroughs and examples provided to you in class and turn them into something that *looks* completely different. A Honda and a Porsche are both pretty much the same thing inside.
+
+The app you make today probably will not be the magnum opus that defines you as a developer for the rest of your life, so don't put that pressure on yourself. Be silly, and have fun!
+
 ## Lab Submission
 
 Please submit an issue to this repo by Thursday, April 14th at 5PM with...
