@@ -43,6 +43,14 @@ If you keep this in mind it greatly simplifies the process of making something. 
 
 The app you make today probably will not be the magnum opus that defines you as a developer for the rest of your life, so don't put that pressure on yourself. Be silly, and have fun!
 
+### Some ideas
+
+- URL shortener
+- A Stack Overflow-style question/answer page
+- Recipe / ingredients manager
+- Competitive Cookie Clicker
+- Image tagger
+
 ## Lab Submission
 
 Please submit an issue to this repo by Thursday, April 14th at 5PM with...
