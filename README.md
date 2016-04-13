@@ -11,9 +11,13 @@ Your application must be ME(A)N. This includes...
 * Using **MongoDB** has your database.
 * Using **Mongoose** as your ORM.
 
-Your app must use two models, one of which must be nested within the other.  
+Your app must have CRUD functionality for at least one model.
 
 Your app must be deployed to Heroku.
+
+### Bonus I
+
+Add a second model to your application, which is nested under the first.
 
 ### Bonus I
 
