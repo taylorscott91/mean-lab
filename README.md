@@ -29,7 +29,7 @@ Allow the user to log-in using a third-party service other than Twitter (e.g., F
 
 ## Groups
 
-You will be working groups of 3 for this lab. Groups will be determined by counting off students during the lab intro. If you are in Classroom 4, count off from 1-6. If in Classroom 6, 1-8.
+You will be working in groups of **at most** 4 students. We will leave the group selection up to you. Feel free to do so after the lab has been introduced.
 
 ## Lab Submission
 
