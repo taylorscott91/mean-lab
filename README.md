@@ -11,9 +11,9 @@ Your application must be ME(A)N. This includes...
 * Using **MongoDB** has your database.
 * Using **Mongoose** as your ORM.
 
-Your app must have CRUD functionality for at least one model.
+Your app should have CRUD functionality for at least one model.
 
-Your app must be deployed to Heroku.
+Aim to deploy your app to Heroku.
 
 ### Bonus I
 
