@@ -59,7 +59,7 @@ The app you make today probably will not be the magnum opus that defines you as 
 
 Instructor support today will be **exclusively** through the Slack "Tech Support" channel and Github issues on this repository (with the exception of previously-scheduled 1on1s). We will respond as quickly as we can, but there may be a delay of 30+ minutes occasionally due to scheduled meetings. Existing resources -- Google, lesson plans, and other students -- are your best bet.
 
-Remember: we're gradually releasing responsibility. You're not paying us to hold your hand; you're paying us to make you a marketable programmer!
+Remember: we're gradually releasing responsibility. You're not paying us to hold your hand; you're paying us to ~~make you~~ help you make yourself a marketable programmer!
 
 ## Lab Submission
 
