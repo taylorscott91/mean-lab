@@ -63,7 +63,7 @@ Remember: we're gradually releasing responsibility. You're not paying us to hold
 
 ## Lab Submission
 
-Please submit an issue to this repo by Thursday, April 14th at 5PM with...
+Please submit an issue to this repo by 5PM with...
 * A link to your lab repo.
 * A link to your deployed application.
 * Any questions you would like answered by the instructor grading the lab.
