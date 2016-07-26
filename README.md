@@ -25,7 +25,7 @@ Add Angular to your application stack. Express should only handle your root view
 
 ### Bonus III
 
-Allow the user to log-in using Twitter.
+Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
 
 ### Bonus IV
 
