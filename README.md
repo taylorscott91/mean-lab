@@ -10,6 +10,7 @@ Your application must be ME(A)N. This includes...
 * Using **Express** to handle HTTP requests and serve API endpoints.
 * Using **MongoDB** has your database.
 * Using **Mongoose** as your ORM.
+* Add **Angular** to your application stack. Express should only handle your root view as well as your API routes. Angular should take care of the rest via `ui.router`.
 
 Your app should have CRUD functionality for at least one model.
 
@@ -21,19 +22,15 @@ Add a second model to your application, which is nested under the first.
 
 ### Bonus II
 
-Add Angular to your application stack. Express should only handle your root view as well as your API routes. Angular should take care of the rest via `ui.router`.
+Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
 
 ### Bonus III
 
-Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
-
-### Bonus IV
-
 Allow the user to log-in using a third-party service other than Twitter (e.g., Facebook, Spotify).
 
-## Groups
+## Pairs
 
-You will be working in groups of **at most** 4 students. We will leave the group selection up to you. Feel free to do so after the lab has been introduced.
+You will be working in pairs. We will leave the group selection up to you. Feel free to do so after the lab has been introduced.
 
 ## Keep In Mind
 
@@ -63,7 +60,7 @@ Remember: we're gradually releasing responsibility. You're not paying us to hold
 
 ## Lab Submission
 
-Please submit an issue to this repo by 5PM with...
+Please submit an issue to this repo by Thursday at 9A/M with...
 * A link to your lab repo.
 * A link to your deployed application.
 * Any questions you would like answered by the instructor grading the lab.
