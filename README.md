@@ -60,7 +60,6 @@ Remember: we're gradually releasing responsibility. You're not paying us to hold
 
 ## Lab Submission
 
-Please submit an issue to this repo by Thursday at 9A/M with...
+Please submit an issue to this repo by Thursday at 9AM with...
 * A link to your lab repo.
-* A link to your deployed application.
-* Any questions you would like answered by the instructor grading the lab.
+* A link to your deployed application (if you have one).
