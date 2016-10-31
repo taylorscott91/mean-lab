@@ -20,17 +20,23 @@ Aim to deploy your app to Heroku.
 
 Add a second model to your application, which is nested under the first.
 
-### Bonus II
-
-Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
-
-### Bonus III
-
-Allow the user to log-in using a third-party service other than Twitter (e.g., Facebook, Spotify).
-
 ## Pairs
 
-You will be working in pairs. We will leave the group selection up to you. Feel free to do so after the lab has been introduced.
+You will be working in pairs. We will leave the group selection up to you. Feel free find a partner, after the lab has been introduced.
+
+### Some ideas
+
+- A Stack Overflow-style question/answer page
+- Recipe / ingredients manager
+- Competitive Cookie Clicker
+- Image tagger
+
+## Lab Submission
+
+Please submit an issue to this repo by the time indicated on the course schedule with the following:
+* A link to your lab repo.
+* A link to your deployed application (if you have one)
+* The names of your group members
 
 ## Keep In Mind
 
@@ -43,23 +49,3 @@ This isn't a WDI thing: it's a real-life thing! A tremendous number of apps foll
 If you keep this in mind it greatly simplifies the process of making something. You can take any of the walkthroughs and examples provided to you in class and turn them into something that *looks* completely different. A Honda and a Porsche are both pretty much the same thing inside.
 
 The app you make today probably will not be the magnum opus that defines you as a developer for the rest of your life, so don't put that pressure on yourself. Be silly, and have fun!
-
-### Some ideas
-
-- URL shortener
-- A Stack Overflow-style question/answer page
-- Recipe / ingredients manager
-- Competitive Cookie Clicker
-- Image tagger
-
-## Asking For Help
-
-Instructor support today will be **exclusively** through the Slack "Tech Support" channel and Github issues on this repository (with the exception of previously-scheduled 1on1s). We will respond as quickly as we can, but there may be a delay of 30+ minutes occasionally due to scheduled meetings. Existing resources -- Google, lesson plans, and other students -- are your best bet.
-
-Remember: we're gradually releasing responsibility. You're not paying us to hold your hand; you're paying us to ~~make you~~ help you make yourself a marketable programmer!
-
-## Lab Submission
-
-Please submit an issue to this repo by Thursday at 9AM with...
-* A link to your lab repo.
-* A link to your deployed application (if you have one).
