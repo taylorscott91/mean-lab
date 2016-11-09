@@ -16,9 +16,13 @@ Your app should have CRUD functionality for at least one model.
 
 Aim to deploy your app to Heroku.
 
-### Bonus
+### Bonus I
 
 Add a second model to your application, which is nested under the first.
+
+### Bonus II
+
+Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
 
 ## Getting Started
 
