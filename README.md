@@ -8,7 +8,7 @@ This is an open-ended group lab! It is up to you and your teammates to come up w
 
 Your application should be ME(A)N. This includes...
 * Using **Express** to handle HTTP requests and serve API endpoints.
-* Using **MongoDB** has your database.
+* Using **MongoDB** as your database.
 * Using **Mongoose** as your ODM.
 * Adding **Angular** as your front-end. Express should only handle your root view as well as your API routes. Angular should take care of the rest via `ui.router`.
 
