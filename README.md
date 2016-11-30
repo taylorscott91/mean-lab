@@ -14,7 +14,6 @@ Your application should be ME(A)N. This includes...
 
 Your app should have CRUD functionality for at least one model.
 
-Aim to deploy your app to Heroku.
 
 ### Bonus I
 
