@@ -2,7 +2,7 @@
 
 ## Prompt
 
-This is an open-ended group lab! It is up to you and your teammates to come up with a project idea. It must, however, fulfill the following technical requirements...
+This is an open-ended pair lab! It is up to you and your teammate to come up with a project idea. It must, however, fulfill the following technical requirements...
 
 ## Technical Requirements
 
