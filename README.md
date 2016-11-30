@@ -23,11 +23,6 @@ Add a second model to your application, which is nested under the first.
 
 Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
 
-## Getting Started
-
-Before you start coding, spend some time reviewing the [Building a MEAN App lesson](https://github.com/ga-wdi-lessons/building-a-mean-app)
-and make sure to checkout out the walkthrough of how to add Angular to the WhenPresident app.
-
 ## Pairs
 
 You will be working in pairs. We will leave the group selection up to you. Feel free find a partner, after the lab has been introduced.
