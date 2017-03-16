@@ -6,7 +6,7 @@ This is an open-ended pair lab! It is up to you and your teammate to come up wit
 
 ## Technical Requirements
 
-Your application should be ME(A)N. This includes...
+Your application should be MEAN. This includes...
 * Using **Express** to handle HTTP requests and serve API endpoints.
 * Using **MongoDB** as your database.
 * Using **Mongoose** as your ODM.
@@ -14,30 +14,31 @@ Your application should be ME(A)N. This includes...
 
 Your app should have CRUD functionality for at least one model.
 
-
 ### Bonus I
 
 Add a second model to your application, which is nested under the first.
 
 ### Bonus II
 
-Allow the user to log-in using Twitter. [Lesson Plan](https://github.com/ga-wdi-lessons/express-oauth)
+Allow the user to log-in using Twitter.
+
+> Use this [lesson plan](https://github.com/ga-wdi-lessons/express-oauth) as reference.
 
 ## Pairs
 
-You will be working in pairs. We will leave the group selection up to you. Feel free find a partner, after the lab has been introduced.
+You will be working in pairs. We will leave the group selection up to you. Feel free find a partner after the lab has been introduced.
 
 ### Some ideas
 
-- A Stack Overflow-style question/answer page
-- Recipe / ingredients manager
+- A StackOverflow-style question/answer page
+- Recipe / Ingredients manager
 - Competitive Cookie Clicker
 - Image tagger
-- A Digital Notebook
+- A digital notebook
 
 ## Lab Submission
 
 Please submit an issue to this repo by the time indicated on the course schedule with the following:
-* A link to your lab repo.
+* A link to your lab repo
 * A link to your deployed application (if you have one)
 * The names of your group members
