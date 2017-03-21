@@ -1,7 +1,7 @@
 <h2>{{vm.memes.length}} fresh memes to browse</h2>
 <div>
   <h3 data-ng-repeat="meme in vm.memes">
-    <a data-ui-sref="show">{{meme.name}}</a>
+    <a data-ui-sref="show({name: meme.name})">{{meme.name}}</a>
   </h3>
 </div>
 

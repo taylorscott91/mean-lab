@@ -1,18 +1,13 @@
 const express = require('express')
 const Meme = require('./db/models.js').Meme
+const parser = require("body-parser")
 
 const app = express()
 
-app.set('view engine', 'hbs') //not needed for angular
+app.set('view engine', 'hbs')
 
 app.use("/assets", express.static("public"));
-// app.use(parser.json({extended: true}));
-
-// app.get('/memes', (req, res) => {
-//   Meme.find({}, (err, memes) => {
-//     res.render('index', {memes})
-//   })
-// })
+app.use(parser.json({extended: true}));
 
 app.get("/", function(req, res){
   res.render("memes");

@@ -16,9 +16,10 @@ angular
     "Meme",
     indexController
   ])
-  .controller("showCtrl" [
+  .controller("showCtrl", [
     "$state",
     "$stateParams",
+    "Meme",
     showController
   ])
 
