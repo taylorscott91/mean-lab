@@ -1,0 +1,7 @@
+<h2>{{vm.memes.length}} fresh memes to browse</h2>
+<div>
+  <h3 data-ng-repeat="meme in vm.memes">
+    <a data-ui-sref="show">{{meme.name}}</a>
+    <img src="{{meme.image}}">
+  </h3>
+</div>
