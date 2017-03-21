@@ -4,10 +4,15 @@ const parser = require("body-parser")
 
 const app = express()
 
+app.set('port', process.env.PORT || 3001)
 app.set('view engine', 'hbs')
 
 app.use("/assets", express.static("public"));
 app.use(parser.json({extended: true}));
+
+app.listen(app.get('port'), () => {
+  console.log(`Partying hard on ${app.get('port')}`)
+})
 
 app.get("/", function(req, res){
   res.render("memes");
@@ -42,7 +47,3 @@ app.put("/api/memes/:name", function(req, res){
     res.json(meme)
   });
 });
-
-app.listen(3001, () => {
-  console.log("we did it right on 3k1")
-})
