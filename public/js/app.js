@@ -1,5 +1,5 @@
 angular
-  .module("MemeSite", [
+  .module("memeSite", [
     "ui.router",
     "ngResource"
   ])

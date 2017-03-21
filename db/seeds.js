@@ -7,4 +7,4 @@ Meme.remove({}, () => {
   })
 })
 
-//to seed: 'node/seeds.js' then run 'mongo', 'use memes_db', 'db.memes.find()' to check
+//to seed: 'node db/seeds.js' then run 'mongo', 'use memes_db', 'db.memes.find()' to check
